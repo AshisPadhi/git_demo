@@ -1,2 +1,2 @@
-#Hi i am the manual that can help you.
-##please use me
+# I am manual for your help
+## Use me when you want
